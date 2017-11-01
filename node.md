@@ -35,6 +35,17 @@ theme: dark
 
 	resize: none|both|horizontal|vertical;
 
+	http://www.w3school.com.cn/tiy/t.asp?f=css3_resize
+[slide]
+	## 点击导航
+	----
+	<iframe data-src="https://codepen.io/xinliqun/full/oogexa" src="about:blank;"></iframe>
+	https://codepen.io/xinliqun/pen/oogexa
+[slide]
+	* 思路：CSS3 :checked 选择器
+	* :checked 选择器匹配每个选中的输入元素（仅适用于单选按钮或复选框）
+
+	http://www.runoob.com/try/try.php?filename=trycss3_checked
 [slide]
 	用node做个全局的小工具
 [slide]
